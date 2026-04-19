@@ -6,6 +6,4 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xymn2023&theme=dark&locale=cn" alt="GitHub Streak" />
-</div>
+
